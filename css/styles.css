@@ -24,9 +24,6 @@ ol, ul{
     text-transform: uppercase;
     font-family: "Raleway", sans-serif;
     text-decoration: none;
-}
-.logo-nav,
-.logo-footer{
     color: #4d5ae5;
 }
 
@@ -42,6 +39,7 @@ ol, ul{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .navigation .nav-bar a:hover,
 .navigation .nav-bar a:focus,
@@ -50,7 +48,7 @@ ol, ul{
     color:#404BBF;
 }
 
-.nav-address-list .nav-adress-link{
+.nav-address .nav-adress-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -79,7 +77,6 @@ ol, ul{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: currentColor;
-    font-family: inherit;
 }
 
 .hero-button:hover,
@@ -92,6 +89,7 @@ ol, ul{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .portfolio-section{
@@ -117,7 +115,7 @@ ol, ul{
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
-    color: #2e2f42
+    color: #2e2f42;
 }
 
 .page-footer {
