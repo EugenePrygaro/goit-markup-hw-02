@@ -50,8 +50,7 @@ ol, ul{
     color:#404BBF;
 }
 
-.nav-address-list .tel,
-.nav-address-list .mail {
+.nav-address-list .nav-adress-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -94,12 +93,13 @@ ol, ul{
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-.team-section,
+
 .portfolio-section{
     text-align: center;
     background-color: #FFFFFF;
 }
 .team-section{
+    text-align: center;
     background-color: #F4F4FD;
 }
 .team-member{
@@ -116,7 +116,8 @@ ol, ul{
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize
+    text-transform: capitalize;
+    color: #2e2f42
 }
 
 .page-footer {
