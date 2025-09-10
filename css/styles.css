@@ -1,6 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
     background-color: #fff;
 }
 ol, ul{
@@ -97,6 +97,12 @@ ol, ul{
 .team-section,
 .portfolio-section{
     text-align: center;
+    background-color: #FFFFFF
+}
+.team-section{
+    background-color: #F4F4FD
+}
+.team-member{
     background-color: #FFFFFF
 }
 .section-text{
